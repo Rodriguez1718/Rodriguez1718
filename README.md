@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rodriguez 👋
+# Hi, I'm Kris John S. Rodriguez 👋
 
 ### Software Developer · AI & Automation Pipelines
 
